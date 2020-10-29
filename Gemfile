@@ -13,7 +13,7 @@ group :development, :test do
 group :production do
   gem 'pg'
 end
-# Use Puma as the app server
+# Use Puma as the app servera
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
